@@ -1,0 +1,18 @@
+<svg width="880" height="190" viewBox="0 0 880 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mikhail Khodyrev — Unity GameDev">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="880" height="190" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="880" height="190" fill="#0d1117"/>
+    <rect width="880" height="190" fill="url(#accent)" opacity="0.06"/>
+    <rect x="56" y="52" width="26" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="56" y="97" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="700" fill="url(#accent)">Mikhail Khodyrev</text>
+    <text x="56" y="133" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#8b949e">Unity GameDev · делаю игры · making games</text>
+  </g>
+  <rect x="0.5" y="0.5" width="879" height="189" rx="17.5" fill="none" stroke="#30363d"/>
+</svg>

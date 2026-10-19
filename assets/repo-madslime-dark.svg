@@ -1,0 +1,12 @@
+<svg width="420" height="150" viewBox="0 0 420 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mad-Slime">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset="0.5" stop-color="#3b82f6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient><clipPath id="r"><rect width="420" height="150" rx="16"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="420" height="150" fill="#0d1117"/>
+    <rect x="28" y="34" width="22" height="5" rx="2.5" fill="url(#g)"/>
+    <text x="28" y="78" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="23" font-weight="700" fill="#e6edf3">Mad-Slime</text>
+    <text x="28" y="106" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#8b949e">бузмный слайм · a rowdy slime</text>
+    <circle cx="33" cy="127" r="5" fill="#34d058"/>
+    <text x="45" y="132" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#8b949e">C# · Unity</text>
+  </g>
+  <rect x="0.5" y="0.5" width="419" height="149" rx="15.5" fill="none" stroke="#30363d"/>
+</svg>
